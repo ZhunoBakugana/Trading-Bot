@@ -1,0 +1,13 @@
+[project]
+name = "Trading-Bot"
+version = "0.1.0"
+description = "A high-performance trading bot which will start of as a personal journal for my manual trades :]"
+authors = [{ name = "Zhuno", email = "zhuno888@gmail.com" }]
+dependencies = [
+    "PySide6",
+
+]
+
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"

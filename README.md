@@ -9,4 +9,4 @@ After I deem the bot worthy enough, I'll let it paper trade. When that's done, I
 The plan is to let the bot take over my trades completely, in due time of couse(after loooots of testing/debugging).
 
 Kind regards,
-Just a guy who doesn't want to work 9-5 for the rest of his live😭
+Just a guy who doesn't want to work 9-5 for the rest of his life😭
